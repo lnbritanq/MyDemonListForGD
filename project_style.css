@@ -1,0 +1,164 @@
+.main_body{
+background-image:url("background.png");
+background-size:110%;
+background-attachment:fixed;
+background-repeat:no-repeat;
+padding:0;
+margin:0;
+font-family:Arial Black;
+}
+.list_body{
+font-family:Arial Black;
+padding:0;
+margin:0;
+background:white;
+}
+.info_body{
+font-family:Arial Black;
+padding:0;
+margin:0;
+}
+.main{
+background:white;
+margin-left:20%;
+width:60%;
+height:100%;
+}
+.name{
+font-family:Arial Black;
+margin-left:700px;
+font-weight: 900;
+font-size:50px;
+letter-spacing: 3px;
+}
+.main_name{
+width:100%;
+padding:3px;
+}
+.line1{
+background:black;
+width:100%;
+height:3px;
+border:none;
+padding:0;
+margin:0;
+}
+.line2{
+background:black;
+width:100%;
+height:3px;
+border:none;
+padding:0;
+margin:0;
+margin-top:-2px;
+}
+.button{
+display:block;
+background:white;
+margin-top:5px;
+border:none;
+width:auto;
+height:40px;
+font-family:Arial Black;
+font-size:20px;
+text-align:center;
+}
+.button:hover{
+border:4px solid black;
+}
+iframe{
+border:3px solid black;
+height:100%;
+}
+.iframes{
+width:100%;
+height:81%;
+margin-top:-3px;
+}
+.levels{
+height:99%;
+width:33%;
+}
+.info{
+height:100%;
+width:65%;
+border:none;
+}
+.lvl_info{
+height:auto;
+background:white;
+}
+.text{
+font-size:30px;
+}
+.text_name{
+font-size:20px;
+}
+.main_people{
+height:auto;
+width:200px;
+}
+.video {
+width:800px;
+}
+.a1{
+height:400;
+}
+a{
+text-decoration:none;
+color:black;
+text-align:right;
+}
+.lvl_id{
+width:720px;
+}
+.text_2{
+font-size:15px;
+}
+.text_name2{
+font-size:20px;
+margin-left:15px;
+}
+.text_name3{
+font-size:20px;
+margin-left:50px;
+}
+.button_long{
+display:block;
+background:white;
+margin-top:5px;
+border:none;
+width:240px;
+height:63px;
+font-family:Arial Black;
+font-size:20px;
+padding:none;
+text-align:left;
+}
+.button_long:hover{
+border:4px solid black;
+}
+.button_long2{
+display:block;
+background:white;
+margin-top:5px;
+border:none;
+width:270px;
+height:63px;
+font-family:Arial Black;
+font-size:20px;
+padding:none;
+text-align:left;
+}
+.button_long2:hover{
+border:4px solid black;
+}
+.button_long2:active{
+border:4px solid black;
+}
+.button_long:active{
+border:4px solid black;
+}
+.button:active{
+border:4px solid black;
+}
